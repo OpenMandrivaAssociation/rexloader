@@ -3,7 +3,7 @@
 Name:		rexloader
 Version:	0.1a.rev%{svn}
 Release:	%mkrel 1
-Summary:	Advanced download manager with Qt4 GUI
+Summary:	Advanced multi-threaded download manager with Qt4 GUI
 Group:		Networking/File transfer
 License:	GPLv3
 URL:		http://code.google.com/p/rexloader/
@@ -14,7 +14,7 @@ BuildRequires:	zlib-devel
 
 %description
 Advanced Qt4 download manager over HTTP with configurable
-multithreaded downloading.
+multi-threaded downloading.
 
 %prep
 %setup -q
