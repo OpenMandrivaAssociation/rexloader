@@ -64,3 +64,10 @@ EOF
 %{_datadir}/applications/%{name}.desktop
 %{_libdir}/%{name}
 
+
+
+%changelog
+* Thu Feb 23 2012 Andrey Bondrov <abondrov@mandriva.org> 0.1a.rev207-1
++ Revision: 779368
+- imported package rexloader
+
