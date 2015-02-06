@@ -2,7 +2,7 @@
 
 Name:		rexloader
 Version:	0.1a.rev%{svn}
-Release:	%mkrel 1
+Release:	2
 Summary:	Advanced multi-threaded download manager with Qt4 GUI
 Group:		Networking/File transfer
 License:	GPLv3
