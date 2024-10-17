@@ -6,7 +6,7 @@ Release:	2
 Summary:	Advanced multi-threaded download manager with Qt4 GUI
 Group:		Networking/File transfer
 License:	GPLv3
-URL:		http://code.google.com/p/rexloader/
+URL:		https://code.google.com/p/rexloader/
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		rexloader-0.1a-linkage.patch
 BuildRequires:	qt4-devel
